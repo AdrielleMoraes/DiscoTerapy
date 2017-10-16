@@ -1,0 +1,29 @@
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\bin\Debug\testeCobec.exe.config
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\bin\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\bin\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.csprojResolveAssemblyReference.cache
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.Form1.resources
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.Properties.Resources.resources
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.csproj.GenerateResource.Cache
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\STR\testeCobec\testeCobec\obj\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\bin\Debug\testeCobec.exe.config
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\bin\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\bin\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.csprojResolveAssemblyReference.cache
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.Form1.resources
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.Properties.Resources.resources
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.csproj.GenerateResource.Cache
+C:\Users\ADRIELLE\Desktop\testeCobec\testeCobec\obj\Debug\testeCobec.Form_calibra.resources
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\bin\Debug\testeCobec.exe.config
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\bin\Debug\testeCobec.exe
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\bin\Debug\testeCobec.pdb
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.csprojResolveAssemblyReference.cache
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.Form1.resources
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.Form_calibra.resources
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.Properties.Resources.resources
+C:\Users\ADRIELLE\Google Drive\Competição COBEC SEB 2017\testeCobec\testeCobec\obj\Debug\testeCobec.csproj.GenerateResource.Cache
